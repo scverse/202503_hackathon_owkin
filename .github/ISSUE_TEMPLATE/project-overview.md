@@ -2,7 +2,7 @@
 name: Project Overview
 about: A template to help organize the hackathon projects into parallelizable tasks
 title: Project Template
-labels: ''
+labels: 'workstream'
 assignees: ''
 
 ---
