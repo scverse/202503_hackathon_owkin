@@ -22,3 +22,4 @@ We have prepared several notebooks illustrating on how you can actually download
 - [Query SDDB by custom ontologies](https://github.com/scverse/202503_hackathon_owkin/blob/main/data/query_labels.ipynb)
 - [Query SDDB by gene occurrence](https://github.com/scverse/202503_hackathon_owkin/blob/main/data/query_genes.ipynb)
 
+We also provide a [template notebook](https://github.com/scverse/202503_hackathon_owkin/blob/main/data/template_notebook.ipynb) that you can use to get started. Enjoy!
