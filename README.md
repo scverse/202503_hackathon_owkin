@@ -56,7 +56,7 @@ The **scverse x Owkin Hackathon 2025** is a collaborative event aimed at ...
 |                            | 09:30 – 12:00   | Hack Session                           |
 |                            | 12:00 – 14:00   | Lunch on Owkin / Continued Hack        |
 |                            | 14:00 – 18:00   | Hack Session                           |
-|                            | 18:00 – 20:00   | Afterwork @Bianca                      |
+|                            | 18:00 – 20:00   | Afterwork @ [Bianca](https://maps.app.goo.gl/paTs1PoTaLMpGFsJ9) |
 |                            |                 |                                        |
 | **Wednesday, March 19, 2025**| 09:00 – 09:30 | Breakfast on Owkin                     |
 |                            | 09:30 – 11:00   | Hack Session                           |
@@ -98,7 +98,7 @@ Our GitHub Issues contain a variety of workstreams designed to challenge your sk
 - **Workstream 10:** Housekeeping & Cookiecutter template maintenance – [View detallied description](https://github.com/scverse/202503_hackathon_owkin/issues/7)
 
 
-*More workstreams will be added as task forces are confirmed.*
+*More workstreams might be added as task forces are confirmed.*
 
 ---
 
@@ -137,10 +137,7 @@ To help you get started quickly, we have prepared:
 
 ## Communication
 
-Stay connected and be in the loop:
-
-- **Scverse Zulip:**  
-[Join our Zulip](https://scverse.zulipchat.com) and look for the [2025-03 hackathon owkin](https://scverse.zulipchat.com/#narrow/channel/488601-2025-03-hackathon-owkin) channel.
+Stay connected and be in the loop by [joining our Zulip](https://scverse.zulipchat.com) and look for the [2025-03 hackathon owkin](https://scverse.zulipchat.com/#narrow/channel/488601-2025-03-hackathon-owkin) channel.
 
 If you have any questions or doubts, please reach out, either via Zulip or using the contact information below.
 
@@ -151,7 +148,6 @@ If you have any questions or doubts, please reach out, either via Zulip or using
 For further inquiries or support, please contact us at:
 
 - **Email:** [core@scverse.org](mailto:core@scverse.org)
-- **Community Channel:** [Join our Zulip](https://scverse.zulipchat.com)
 
 ---
 
