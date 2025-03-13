@@ -91,11 +91,11 @@ Our GitHub Issues contain a variety of workstreams designed to challenge your sk
 - **Workstream 3:** Cross-sample comparisons with Squidpy – [View detallied description](https://github.com/scverse/202503_hackathon_owkin/issues/12)
 - **Workstream 4:** Knowledge-driven identification of therapeutic spatial clusters – [View detallied description](https://github.com/scverse/202503_hackathon_owkin/issues/14)
 - **Workstream 5:** Improve memory and runtime of spatialdata and spatialdata-io – [View detallied description](https://github.com/scverse/202503_hackathon_owkin/issues/10)
-- **Workstream 6:** {Micro,Tile}JSON for SpatialData – [View detallied description]([xxx](https://github.com/scverse/202503_hackathon_owkin/issues/4))
-- **Workstream 7:** SpatialData: exploring ergonomics and speed improvements – [View detallied description]([xxx](https://github.com/scverse/202503_hackathon_owkin/issues/6))
-- **Workstream 8:** SpatialData-IO support for annotations from histology tools – [View detallied description]([xxx](https://github.com/scverse/202503_hackathon_owkin/issues/9))
-- **Workstream 9:** Exploring support for 2.5/3D shapes – [View detallied description]([xxx](https://github.com/scverse/202503_hackathon_owkin/issues/8))
-- **Workstream 10:** Housekeeping & Cookiecutter template maintenance – [View detallied description]([xxx](https://github.com/scverse/202503_hackathon_owkin/issues/7))
+- **Workstream 6:** {Micro,Tile}JSON for SpatialData – [View detallied description](https://github.com/scverse/202503_hackathon_owkin/issues/4)
+- **Workstream 7:** SpatialData: exploring ergonomics and speed improvements – [View detallied description](https://github.com/scverse/202503_hackathon_owkin/issues/6)
+- **Workstream 8:** SpatialData-IO support for annotations from histology tools – [View detallied description](https://github.com/scverse/202503_hackathon_owkin/issues/9)
+- **Workstream 9:** Exploring support for 2.5/3D shapes – [View detallied description](https://github.com/scverse/202503_hackathon_owkin/issues/8)
+- **Workstream 10:** Housekeeping & Cookiecutter template maintenance – [View detallied description](https://github.com/scverse/202503_hackathon_owkin/issues/7)
 
 
 *More workstreams will be added as task forces are confirmed.*
