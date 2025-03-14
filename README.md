@@ -44,10 +44,10 @@ The **scverse x Owkin Hackathon 2025** is a collaborative event aimed at ...
 | Date                       | Time            | Activity                               |
 |----------------------------|-----------------|----------------------------------------|
 | **Monday, March 17, 2025** | 09:00 – 09:30   | Breakfast on Owkin                     |
-|                            | 09:30 – 09:50   | scverse Introduction                   |
-|                            | 09:50 – 10:10   | Owkin Introduction                     |
-|                            | 10:10 – 10:40   | Kick-off & Tasks Review                |
-|                            | 10:40 – 12:00   | Hack Session                           |
+|                            | 09:30 – 10:00   | scverse Introduction                   |
+|                            | 10:00 – 10:30   | Owkin Introduction                     |
+|                            | 10:30 – 10:45   | Kick-off                               |
+|                            | 10:45 – 12:00   | Hack Session                           |
 |                            | 12:00 – 14:00   | Lunch on Owkin / Continued Hack        |
 |                            | 14:00 – 18:00   | Hack Session                           |
 |                            | 18:00 – 20:00   | Afterwork @Owkin                       |
