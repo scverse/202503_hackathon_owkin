@@ -20,12 +20,6 @@ Welcome to the scverse Hackathon 2025 organized in collaboration with [Owkin](ht
 
 ---
 
-## Overview
-
-The **scverse x Owkin Hackathon 2025** is a collaborative event aimed at ...
-
----
-
 ## Event Details
 
 - **Dates:** Monday, 2025-03-17 09:00 to Wednesday, 2025-03-19 12:30
